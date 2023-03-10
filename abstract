@@ -1,0 +1,132 @@
+Abstract
+
+E-commerce is the buying and selling of good or services via the internet, and the transfer of money and data to
+complete the sales. It is also known as electronic commerce or internet commerce. There are thousands of e-commerce 
+websites on internet. We have developed the website which sells IT equipment like computer, laptop, printer, scanner,
+CCTV and all other IT peripherals and also provides so many features like renting and servicing of that product to
+user so it is very comfortable and easy to purchase to user from our website. Our website sells not only new 
+products but also old/used products, refurbished products. We have given AMC (Annual Maintenance Contract) option
+to user where user can select the range of years of servicing as he/she wants at very nominal cost.
+
+Introduction
+I. INTRODUCTION
+
+Nowadays a lot of business are taking place online through e-commerce website. Online business gives you the option 
+to buy the desired products from seller and the delivery agent ships the package to our home e.g.: Amazon, Flipkart 
+etc.
+
+But this is the only feature they offer. After doing some research we came to know that there is a need to do 
+something more such that customers do not have to worry much about the product. The problem normally was 
+the maintenance of item, buying refurbished items instead of new ones, especially for the ones who cannot afford or
+for people who do not want to spend more amount on the same product. So the above mentioned problems are solved by
+us here in this project where not only buying & selling is done of new products but the above mentioned problems 
+are also solved here which makes it a better option for all customers including individuals, businesses & governments.
+
+E-commerce means electronic commerce. It means dealing in goods and services through the Electronic media and internet. 
+E-commerce involves carrying on a business with the help of the Internet and by using the information technology 
+like Electronic Data Interchange.
+
+A. Objectives
+
+The main objective of the E - commerce website is to change the user experience thereby providing various options
+to the user like Rental basis for products, selling refurbished products, AMC etc. The purpose of the project is
+to increase the business value and also provide solutions to the user who are facing issues while buying any product
+online. The website is unique from other e commerce website as it provides unique features which other e – commerce
+website do not offer.
+
+Buying and selling of products.
+Giving products to customers on rental basis.
+Selling refurbished products to customer who can’t afford new product.
+Providing AMC to customers such that they can avail maintenance from us by paying the amount based on the time period selected.
+Giving special discounts to governments and NGO’s.
+II. PROBLEM DEFINITION
+
+An E-Commerce website is a portal which is used to do business deals on a large scale on a broader network. 
+Here in our project we are developing a new kind of a website wherein we are giving options to customers such as
+buying, selling, renting, AMC(Annual Maintenance Charge). The customers may include individuals, businesses,
+governments, etc. The product can also be given to the customers on rental basis. Now we talk about AMC,
+in this service we as a company give to our customers a maintenance package on yearly basis where in the customer 
+at the start of buying gets an option of paying the entire charge at once and throughout the year they can avail 
+the maintenance services for free.
+
+E-commerce is an explode in the modern business. Rather e-commerce is more than just another way to shove 
+the existing business practices & methods. It is leading a complete change in traditional way of doing business.
+Buying goods and services via E-Commerce allows consumers the freedom to choose when and where to shop and 
+the opportunity to research the product, the seller, and any other available options. Shopping has been galvanized 
+through the availability of online information.
+
+The E - Commerce business method has a lot of benefit keeping in mind the COVID-19 scenario. As we know that due
+to covid the situation in India worsened due to which lockdown and curfews were present nationwide. This led to 
+a decline in profit of businesses who are operating manually or offline. But due to the grace of technology 
+advancement especially in e-commerce this loss turned into profit and feeling as if there was no situation present.
+
+III. REQUIREMENT ANALYSIS
+
+A. Functional Requirements
+
+The Admin can add or delete vendors and user accounts whom they feel are violating the rules.
+The Admin can update the status of the product i.e. availability, tracking of shipment, change in price etc.
+User can order the product according to the options available like Refurbished, Rental etc.
+User can do the payment of the order by cash on delivery (COD), online payment or by purchasing it on rental basis.
+B. Non – Functional Requirements
+
+The system should be working enough with good speed.
+A stable internet connection.
+C. Software Configuration
+
+The choice of technologies for developing the website plays a very important role. It gives the detailed description 
+of the technologies used and software requirement specification. It helps the developer know the exact requirement
+ for the system.
+
+Language Used: HTML, CSS, Javascript, Python & Django.
+Web Browser: Chrome, Mozilla FireFox.
+Database: MySQL XAMPP Server.
+IV. PLANNING & ESTIMATION
+
+The e commerce website to be developed was a complex task as it contained a lot of parameters to be taken care of. 
+The website contains front end, back end and database. The complete task was broken down in three stages accordingly 
+as mentioned above. Firstly we developed the front end part as the user is going to use the front end panel only 
+and is not concerned about the back end and data base. So a good looking front end was the main challenge.
+Then we moved on to back end & consecutively to the database.
+
+The estimated time for completing the website was around 1.5 months & the hours it was around 90-100 hours.
+The website was then completed and tested from the user’s point of view to get to know the errors and bugs which
+the customer might have to face while using the portal. Again the domain name which we purchased cost us 
+around Rs. 600. Now for each and every details we have generalized the same in a tabular format a shown.
+We have modified the Delphi method for estimation and used the same over here.
+
+
+
+V. SYSTEM DESIGN
+
+A. Architectural Design
+
+The software needs the architectural design to represents the design of software. IEEE defines architectural design 
+as “the process of defining a collection of hardware and software components and their interfaces to establish 
+the framework for the development of a computer system.”
+
+The architectural design for the website is as shown.
+
+
+
+Fig.2
+
+The above diagrams show the interaction between the system components with different entities 
+(User, Seller, Admin) & how they collaborate with each other.
+
+VII. ACKNOWLEDGEMENT
+
+We would like to sincerely thank our teacher and guide Prof. Deepali Narkhede without whose guidance
+this project would have not been so successful. She guided us to the right path and checked minute details of
+the project work and also giving suggestion. We would also like to thank our HOD Dr. Savita Sangam 
+and Honorable Principal Dr P.R. Rodge who always encouraged the work of students and made sure necessary resources are available.                          
+
+Conclusion
+Finally, as we have seen the problem statement, proposed system & expected results of our projects 
+we have come up with some conclusion which are as follows. 
+1) The e-commerce platform will get a new beginning since the idea used is very unique which doesn’t match with that of other’s. 
+2) The advanced options provided will help customers to have a variety of options in doing deals.
+3) The new features such as AMC will facilitate customer with maintenance which others might have not thought also.
+4) A growing number of firms in various industries,such as banking, education, commerce, and Tourism, etc. 
+   have improved their services by both incorporating technologies into their service Delivery process.
+   Integration of technology in services is becoming very common;however, very little academic research has been conducted to examine its influence.
